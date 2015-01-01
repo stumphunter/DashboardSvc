@@ -1,2 +1,1 @@
-rem Test comment
-msbuild Dashboard.sln /t:build /p:configuration=release
+msbuild Dashboard.sln /t:build /p:configuration=release /p:VisualStudioVersion=12.0
