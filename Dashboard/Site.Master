@@ -4,7 +4,7 @@
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8" />
-    <title><%: Page.Title %> - Digital RiverINC</title>
+    <title><%: Page.Title %> - Digi-Key Corporation</title>
     <asp:PlaceHolder runat="server">     
           <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>  
@@ -41,7 +41,7 @@
             <div class="float-left">
                 <p class="site-title">
                     <a runat="server" href="../">
-                        <img src="Images/DigitalRiver-small.png" />
+                        <img src="Images/Digi-Key-Logo.png" />
                     </a>
                 </p>
             </div>

@@ -4,10 +4,10 @@
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
-                <h1>Digital River Dashboard</h1>
+                <h1>Digi-Key Dashboard</h1>
             </hgroup>
             <p>
-                Digital River Dashboard offers you our most powerful cloud commerce tools and services for selling digital and physical 
+                Digi-Key Dashboard offers you our most powerful cloud commerce tools and services for selling digital and physical 
                 products across global online markets. Grow sales and expand into some of the fastest-growing online markets worldwide, 
                 while we handle the details specific to each country—like taxes, regulations, payments, e-marketing and more. End-to-end, 
                 you’ll have everything you need to quickly and easily serve your customers—no matter how big your program, how global your 
@@ -17,7 +17,7 @@
     </section>
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>Digital River Dashboard Details:</h3>
+    <h3>Digi-Key Dashboard Details:</h3>
     <ol class="round">
         <li class="one">
             <h5>Modular, configurable, integrated commerce and marketing.</h5>

@@ -194,6 +194,7 @@
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\Dashboard.png" />
+    <Content Include="Images\Digi-Key-Logo.png" />
     <Content Include="Images\DigitalRiver-small.png" />
     <Content Include="Images\heroAccent.png" />
     <Content Include="Images\mobile-dashboard.png" />
