@@ -83,7 +83,7 @@
     <footer>
         <div class="content-wrapper">
             <div class="float-left">
-                <p>&copy; <%: DateTime.Now.Year %> - Digital River / <a runat="server" href="~/Version.txt">Version Information</a></p>
+                <p>&copy; <%: DateTime.Now.Year %> - [enter company name] / <a runat="server" href="~/Version.txt">Version Information</a></p>
             </div>
         </div>
     </footer>
